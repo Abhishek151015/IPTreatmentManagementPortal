@@ -1058,7 +1058,6 @@ F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ru
 F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csprojAssemblyReference.cache
 F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csproj.CoreCompileInputs.cache
 F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.MvcApplicationPartsAssemblyInfo.cache
 F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cache

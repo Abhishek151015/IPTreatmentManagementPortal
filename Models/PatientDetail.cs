@@ -24,7 +24,7 @@ namespace IPTreatmentManagementPortal.Models
         public string Ailment { get; set; }
         [Required]
         [DisplayName("Package Name")]
-        public Package Package { get; set; }
+        public Package Packages { get; set; }
 
         [Required]
         [DataType(DataType.Date)]

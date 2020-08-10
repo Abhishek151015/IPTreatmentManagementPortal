@@ -102,7 +102,7 @@ namespace IPTreatmentManagementPortal.Controllers
                 patientrecord.PatientName = details.PatientName;
                 patientrecord.Age = details.Age;
                 patientrecord.Ailment = details.Ailment;
-                patientrecord.Package = details.Package;
+                patientrecord.Package = details.Packages;
 
                 TreatmentPlan treatmentPlan = new TreatmentPlan();
 
