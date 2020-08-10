@@ -1,0 +1,1094 @@
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.exe
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csprojAssemblyReference.cache
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.AssemblyInfoInputs.cache
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.AssemblyInfo.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cache
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.TagHelpers.input.cache
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.TagHelpers.output.cache
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorCoreGenerate.cache
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorTargetAssemblyInfo.cache
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorTargetAssemblyInfo.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\IPTreatmentManagementPortal.StaticWebAssets.Manifest.cache
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\IPTreatmentManagementPortal.StaticWebAssets.xml
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.deps.json
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.runtimeconfig.json
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.runtimeconfig.dev.json
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.pdb
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.pdb
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csproj.CopyComplete
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.genruntimeconfig.cache
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Trial.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPackages.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ChooseTreatmentPlan.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPatients.cshtml.g.cs
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sarika Kumari\source\repos\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetInsuranceDetails.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.exe
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.deps.json
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.runtimeconfig.json
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.runtimeconfig.dev.json
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.pdb
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.TagHelpers.input.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.TagHelpers.output.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorCoreGenerate.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ChooseTreatmentPlan.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetInsuranceDetails.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPackages.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPatients.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Trial.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewTreatmentPlan.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.pdb
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csproj.CopyComplete
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\IPTreatmentManagementPortal.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\IPTreatmentManagementPortal.StaticWebAssets.xml
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.genruntimeconfig.cache
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.exe
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.deps.json
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.runtimeconfig.json
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.runtimeconfig.dev.json
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.pdb
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csprojAssemblyReference.cache
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.AssemblyInfoInputs.cache
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.AssemblyInfo.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cache
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.TagHelpers.input.cache
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.TagHelpers.output.cache
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorCoreGenerate.cache
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ChooseTreatmentPlan.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetInsuranceDetails.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPackages.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewTreatmentPlan.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorTargetAssemblyInfo.cache
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorTargetAssemblyInfo.cs
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.pdb
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csproj.CopyComplete
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\IPTreatmentManagementPortal.StaticWebAssets.Manifest.cache
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\IPTreatmentManagementPortal.StaticWebAssets.xml
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.genruntimeconfig.cache
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sarika Kumari\Desktop\bu\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetRecords.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\appsettings.json
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.exe
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.deps.json
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.runtimeconfig.json
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.runtimeconfig.dev.json
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.pdb
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csprojAssemblyReference.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csproj.CoreCompileInputs.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.MvcApplicationPartsAssemblyInfo.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.AssemblyInfoInputs.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.AssemblyInfo.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.TagHelpers.input.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.TagHelpers.output.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorCoreGenerate.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ChooseTreatmentPlan.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetInsuranceDetails.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPackages.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetRecords.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewTreatmentPlan.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorTargetAssemblyInfo.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorTargetAssemblyInfo.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.pdb
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csproj.CopyComplete
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\IPTreatmentManagementPortal.StaticWebAssets.Manifest.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\IPTreatmentManagementPortal.StaticWebAssets.xml
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.genruntimeconfig.cache
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.exe
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.deps.json
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.runtimeconfig.json
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.runtimeconfig.dev.json
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.pdb
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csprojAssemblyReference.cache
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.AssemblyInfoInputs.cache
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.AssemblyInfo.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cache
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.TagHelpers.input.cache
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.TagHelpers.output.cache
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorCoreGenerate.cache
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ChooseTreatmentPlan.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetInsuranceDetails.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPackages.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetRecords.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewTreatmentPlan.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorTargetAssemblyInfo.cache
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorTargetAssemblyInfo.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.pdb
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csproj.CopyComplete
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\staticwebassets\IPTreatmentManagementPortal.StaticWebAssets.Manifest.cache
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\staticwebassets\IPTreatmentManagementPortal.StaticWebAssets.xml
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.genruntimeconfig.cache
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Dashboard.cshtml.g.cs
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Sarika Kumari\Desktop\bu_final\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.exe
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.deps.json
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.runtimeconfig.json
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.runtimeconfig.dev.json
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.pdb
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.TagHelpers.input.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.TagHelpers.output.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorCoreGenerate.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ChooseTreatmentPlan.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Dashboard.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetInsuranceDetails.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPackages.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetRecords.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewTreatmentPlan.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.pdb
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csproj.CopyComplete
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\staticwebassets\IPTreatmentManagementPortal.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\staticwebassets\IPTreatmentManagementPortal.StaticWebAssets.xml
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
+C:\Users\ASUS\Downloads\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.genruntimeconfig.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\log4net.config
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\appsettings.json
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\libman.json
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.exe
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.deps.json
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.runtimeconfig.json
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.runtimeconfig.dev.json
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.pdb
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\log4net.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csprojAssemblyReference.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csproj.CoreCompileInputs.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.MvcApplicationPartsAssemblyInfo.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorAssemblyInfo.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.AssemblyInfoInputs.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.AssemblyInfo.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.TagHelpers.input.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.TagHelpers.output.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorCoreGenerate.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ChooseTreatmentPlan.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Dashboard.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetInsuranceDetails.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPackages.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetRecords.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewTreatmentPlan.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorTargetAssemblyInfo.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.RazorTargetAssemblyInfo.cs
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.Views.pdb
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csproj.CopyComplete
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\staticwebassets\IPTreatmentManagementPortal.StaticWebAssets.Manifest.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\staticwebassets\IPTreatmentManagementPortal.StaticWebAssets.xml
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.genruntimeconfig.cache
