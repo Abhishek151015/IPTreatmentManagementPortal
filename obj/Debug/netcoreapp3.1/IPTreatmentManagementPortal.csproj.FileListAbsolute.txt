@@ -1091,3 +1091,4 @@ F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\st
 F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.dll
 F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.pdb
 F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.genruntimeconfig.cache
+F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master\obj\Debug\netcoreapp3.1\IPTreatmentManagementPortal.csprojAssemblyReference.cache

@@ -250,3 +250,19 @@ INFO  02:25:23 Content root path: F:\IPTreatmentMFRP\IPTreatmentManagementPortal
 INFO  02:25:32 Admin logged in.
 INFO  02:26:24 Mapping treatment plan according to patient details by invoking IPTreatment Microservice.
 INFO  02:26:36 Listing insurer details by invoking InsuranceClaim microservice.
+INFO  10:21:18 Application started. Press Ctrl+C to shut down.
+INFO  10:21:18 Application started. Press Ctrl+C to shut down.
+INFO  10:21:18 Hosting environment: Production
+INFO  10:21:18 Hosting environment: Production
+INFO  10:21:18 Content root path: F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master
+INFO  10:21:18 Content root path: F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master
+INFO  10:32:20 Application started. Press Ctrl+C to shut down.
+INFO  10:32:20 Application started. Press Ctrl+C to shut down.
+INFO  10:32:20 Hosting environment: Production
+INFO  10:32:20 Hosting environment: Production
+INFO  10:32:20 Content root path: F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master
+INFO  10:32:20 Content root path: F:\IPTreatmentMFRP\IPTreatmentManagementPortal-master
+INFO  10:32:47 Admin logged in.
+INFO  10:33:28 Mapping treatment plan according to patient details by invoking IPTreatment Microservice.
+INFO  10:34:02 Listing insurer details by invoking InsuranceClaim microservice.
+INFO  10:35:14 Returning the list of treatment packages.

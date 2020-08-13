@@ -16,25 +16,29 @@ namespace IPTreatmentManagementPortal.Controllers
 {
     public class HomeController : Controller
     {
-        
-
+        /// <summary>
+        /// Redirection to login page
+        /// </summary>
+        /// <returns></returns>   
         public IActionResult Index()
         {
-            
             return RedirectToAction("Login");
-
         }
         [HttpGet]
         public IActionResult Login()
         {
             return View();
         }
+        /// <summary>
+        /// Getting the token a Validating the User
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
         [HttpPost]
         public IActionResult Login(User user)
         {
-          //  string token = GetToken("http://localhost:53093/api/Token", user);
-        
-            string token = GetToken("http://52.224.78.227/api/Token", user);
+            string token = GetToken("http://localhost:53093/api/Token", user);
+            //string token = GetToken("http://52.224.78.227/api/Token", user);
             if (token != null)
             {
                 return RedirectToAction("Index", "Admin", new { name = token });       
@@ -57,6 +61,7 @@ namespace IPTreatmentManagementPortal.Controllers
                 string name = response.Content.ReadAsStringAsync().Result;
                 dynamic details = JObject.Parse(name);
                 return details.token;
+                // return name;
             }
         }
 

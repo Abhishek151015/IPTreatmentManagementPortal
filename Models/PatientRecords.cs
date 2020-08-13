@@ -12,6 +12,7 @@ namespace IPTreatmentManagementPortal.Models
         [Key]
         public int PatientId { get; set; }
         [DisplayName("Patient Name")]
+        [Required]
         public string PatientName { get; set; }
 
         [DisplayName("Age")]
